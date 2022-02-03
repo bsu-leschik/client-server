@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "outDir": "Js",
+    "target": "es5",
+    "module": "es2020",
+    "sourceMap": true
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "files": [
+    "Button.ts",
+    "Script.ts"
+  ]
+}

@@ -1,0 +1,5 @@
+class MainApp{
+  constructor() {
+
+  }
+}
